@@ -5,4 +5,4 @@ This website was designed using a freeware called USB Web Server. This acts as a
 
 NOTE: This is only source code and does not represent the final product.
 
-NOTE 2: Not all of the website was created by me, however the vast majority was, including all the PHP, CSS, and some JS
+NOTE 2: Not all of the website was created by me, however the vast majority was, including all the PHP, CSS, some JS, and most HTML.
